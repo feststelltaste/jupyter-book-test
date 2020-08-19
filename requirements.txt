@@ -1,4 +1,2 @@
 jupyter-book
-pandas
 ipython-cypher
-py2neo
